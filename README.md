@@ -22,7 +22,6 @@ This repository contains the published paper *Study of Silicon Valley Bank’s F
 - `CITATION.cff` — citation metadata for tools  
 - `paper.bib` — BibTeX entry  
 - `LICENSE` — Creative Commons Attribution 4.0 (recommended)  
-- `supplementary/` — (optional) data, notebooks, charts, tables
 
 ---
 

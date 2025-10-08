@@ -17,11 +17,11 @@ This repository contains the published paper *Study of Silicon Valley Bank’s F
 ---
 
 ## Files
-- `SVB_Failure_Arora_2023.pdf` — published PDF (rename on upload)  
+- `SVB_Failure_Arora_2023.pdf` — published PDF
 - `README.md` — this file  
 - `CITATION.cff` — citation metadata for tools  
 - `paper.bib` — BibTeX entry  
-- `LICENSE` — Creative Commons Attribution 4.0 (recommended)  
+- `LICENSE` — Creative Commons Attribution 4.0 
 
 ---
 

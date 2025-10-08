@@ -1,0 +1,17 @@
+
+---
+
+
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+title: "Study of Silicon Valley Bank’s Failure: Lessons Learned"
+authors:
+  - family-names: Arora
+    given-names: Kartik
+    affiliation: Galgotias University
+abstract: "Replace with the paper abstract (copy from your published PDF)."
+date-released: 2023-01-01
+version: "v1.0"
+url: "https://ijrpr.com/uploads/V4ISSUE5/IJRPR12967.pdf"
